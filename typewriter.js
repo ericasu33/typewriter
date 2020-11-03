@@ -12,4 +12,4 @@ for (const char of sentence) {
 
 setTimeout(() => {
   process.stdout.write('\n');
-}, time + 10);
+}, time);
